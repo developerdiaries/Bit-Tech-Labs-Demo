@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/styles/application.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"public/app.css","sourcesContent":["* {\n box-sizing: border-box;\n}\n#content {\n width: 640px;\n margin: 0 auto;\n}\n.editor {\n border: 1px solid grey;\n padding: 6px;\n}\n"]}
